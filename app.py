@@ -88,7 +88,3 @@ if start_button:
 st.dataframe(
     st.session_state['df_experiment_results']
 )
-
-st.write(
-    'Esta aplicación aún no es funcional. En construcción.'
-)
